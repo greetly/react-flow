@@ -49,12 +49,6 @@
   }
 }
 
-@keyframes dashdraw {
-  from {
-    stroke-dashoffset: 10;
-  }
-}
-
 .react-flow__edge-path {
   fill: none;
 }
